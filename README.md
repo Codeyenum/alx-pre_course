@@ -1,1 +1,3 @@
 My first readme
+After hours and hours of editing, branching and committing, I think I've finally got this right... well, I hope so...
+
